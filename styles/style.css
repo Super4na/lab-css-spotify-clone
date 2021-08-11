@@ -6,3 +6,131 @@ Green: #00B172
 White: #FFF
 
 */
+
+body {
+    font-family: 'Circular Std Book', sans-serif;
+}
+
+header {
+    background-color: white;
+    color:#1A1A1A;
+    
+}
+
+nav{
+    height: 70px;
+    line-height: 70px;
+       float: right;
+}
+
+#logo-original{
+    width: 140px;
+    margin-top: 1%;
+}
+
+.landing {
+    background-image: url("../images/landing.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 900px;
+    padding: 70px 0;
+    text-align: center;
+   margin-top:1%
+}
+
+h1 {
+    color: #FFF;
+    margin-top: 20%;
+    font-size:  60px;
+}
+
+#textland {
+    color: #FFF;
+   
+}
+
+.whats {
+    padding: 1px 0;
+    text-align: center;
+    font-size: 30px;
+}
+
+#line {
+    width: 300px;
+    background: #00B172;
+}
+
+.Millions{
+    padding: 70px 0;
+    text-align: center;
+    width: 100%;
+}
+#musicicon{
+    width: 40px;
+}
+.HD{
+    padding: 70px 0;
+    text-align: center;
+    width: 100%;
+}
+#hq{
+    width: 40px;
+
+}
+.Stream{
+    padding: 70px 0;
+    text-align: center;
+    width: 100%;
+}
+#devi{
+    width: 40px;
+}
+
+.row{
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+.last{
+    background-color: #00B172;
+    color: #FFF;
+    
+}
+
+.last {
+    background-color: #00B172;
+    color: #FFF;
+    width:100%;
+    height: 100%;
+
+}
+.end {
+   
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+
+
+.block{
+    justify-content: left;
+    width: 250px;
+}
+#yeezy{
+    padding-top: 10px;
+    padding-left: 120px;
+}
+#line2{
+   margin-left:10%;
+color: #FFF;
+width: 300px;
+}
+#white{
+    margin-top: 200%;
+    width: 60px;
+}
+#app{
+    width: 200px;
+    justify-content: right;
+}
